@@ -1,0 +1,1024 @@
+[
+    {
+        "name": "Matthew Burke",
+        "subject": "Physics",
+        "college": "Brasenose",
+        "year": 4,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": true,
+            "no": false
+        },
+        "pizza": {
+            "Margherita": null,
+            "American Hot": 9,
+            "Chicken Feast": 10,
+            "Hot & Spicy": 11,
+            "Four Vegi": null,
+            "Chicken & Rasher Bacon": 2,
+            "Texas BBQ": 3,
+            "Mighty Meaty": 4,
+            "Tandoori Hot": 5,
+            "New Yorker": 7,
+            "Pepporoni Passion": 8,
+            "Vegi Supreme": null,
+            "Meateor": 1,
+            "The Sizzler": 6
+        },
+        "sides": {
+            "Chicken wings": 1,
+            "Chicken strippers": 2,
+            "Dough balls": 3,
+            "Garlic bread": 5,
+            "Potato wedges": 4
+        },
+        "non-alcoholic drinks": {
+            "Coke": 3,
+            "Coke Zero": 4,
+            "Diet Coke": 5,
+            "Flavoured sparkling water": null,
+            "Fanta": 1,
+            "Lemonade": 2
+        },
+        "alcoholic drinks": {
+            "Cider": 2,
+            "Beer": null,
+            "Lager": null,
+            "Spirits": 1
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": null,
+            "Marks & Spencer": null,
+            "Sainsbury's": null,
+            "Tesco": 1
+        },
+        "non-cookie food": {
+            "Biscuits": 2,
+            "Cake": 3,
+            "Jaffa Cakes": null,
+            "Mini brownies": 1,
+            "Mini doughnuts": null,
+            "Mini flapjacket pieces": null,
+            "Muffins": null,
+            "Normal doughnuts": null
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": null,
+            "Papa John's": null,
+            "Ahmed's Bar-B-Q": null,
+            "Original Hassan's": null,
+            "Ali's Kebab Van": null
+        }
+    },
+    {
+        "name": "Chris Kew",
+        "subject": "CS",
+        "college": "New",
+        "year": 4,
+        "used fancy pen": false,
+        "vegetarian": true,
+        "committee member status": {
+            "current": "false",
+            "former": "true-ish",
+            "no": "true-ish"
+        },
+        "pizza": {
+            "Margherita": 3,
+            "American Hot": null,
+            "Chicken Feast": null,
+            "Hot & Spicy": null,
+            "Four Vegi": 2,
+            "Chicken & Rasher Bacon": null,
+            "Texas BBQ": null,
+            "Mighty Meaty": null,
+            "Tandoori Hot": null,
+            "New Yorker": null,
+            "Pepporoni Passion": null,
+            "Vegi Supreme": 1,
+            "Meateor": null,
+            "The Sizzler": null
+        },
+        "sides": {
+            "Chicken wings": null,
+            "Chicken strippers": null,
+            "Dough balls": 1,
+            "Garlic bread": 2,
+            "Potato wedges": 3
+        },
+        "non-alcoholic drinks": {
+            "Coke": null,
+            "Coke Zero": null,
+            "Diet Coke": null,
+            "Flavoured sparkling water": null
+        },
+        "alcoholic drinks": {
+            "Cider": 1,
+            "Beer": null,
+            "Lager": null,
+            "Mixers": 3,
+            "Gin!": 2,
+            "Mead": 1
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": 3,
+            "Marks & Spencer": 2,
+            "Sainsbury's": 1,
+            "Tesco": 4
+        },
+        "non-cookie food": {
+            "Biscuits": null,
+            "Cake": null,
+            "Jaffa Cakes": null,
+            "Mini brownies": null,
+            "Mini doughnuts": null,
+            "Mini flapjacket pieces": null,
+            "Muffins": null,
+            "Normal doughnuts": null
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": 2,
+            "Papa John's": null,
+            "Ahmed's Bar-B-Q": null,
+            "Original Hassan's": null,
+            "Ali's Kebab Van": null
+        }
+    },
+    {
+        "name": "Thomas Denney",
+        "subject": "Computer Science",
+        "college": "St Catherine's",
+        "year": 2,
+        "used fancy pen": true,
+        "vegetarian": false,
+        "committee member status": {
+            "current": true,
+            "former": true,
+            "no": false
+        },
+        "pizza": {
+            "Margherita": 1,
+            "American Hot": null,
+            "Chicken Feast": null,
+            "Hot & Spicy": null,
+            "Four Vegi": 2,
+            "Chicken & Rasher Bacon": 6,
+            "Texas BBQ": null,
+            "Mighty Meaty": null,
+            "Tandoori Hot": null,
+            "New Yorker": 5,
+            "Pepporoni Passion": 4,
+            "Vegi Supreme": 3,
+            "Meateor": null,
+            "The Sizzler": null
+        },
+        "sides": {
+            "Chicken wings": 1,
+            "Chicken strippers": 3,
+            "Dough balls": 2,
+            "Garlic bread": 5,
+            "Potato wedges": 4
+        },
+        "non-alcoholic drinks": {
+            "Coke": null,
+            "Coke Zero": null,
+            "Diet Coke": null,
+            "Flavoured sparkling water": null,
+            "": "Water"
+        },
+        "alcoholic drinks": {
+            "Cider": null,
+            "Beer": null,
+            "Lager": null,
+            "Mixers": null,
+            "": "Red wine"
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": null,
+            "Marks & Spencer": null,
+            "Sainsbury's": null,
+            "Tesco": 1
+        },
+        "non-cookie food": {
+            "Biscuits": 1,
+            "Cake": 4,
+            "Jaffa Cakes": 2,
+            "Mini brownies": null,
+            "Mini doughnuts": null,
+            "Mini flapjacket pieces": 3,
+            "Muffins": null,
+            "Normal doughnuts": null
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": null,
+            "Papa John's": 2,
+            "Ahmed's Bar-B-Q": null,
+            "Original Hassan's": null,
+            "Ali's Kebab Van": null
+        }
+    },
+    {
+        "name": "Edward Hart",
+        "subject": "Maths",
+        "college": "Corpus Christi",
+        "year": 1,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": true,
+            "former": false,
+            "no": false
+        },
+        "pizza": {
+            "Margherita": 1,
+            "American Hot": null,
+            "Chicken Feast": null,
+            "Hot & Spicy": null,
+            "Four Vegi": null,
+            "Chicken & Rasher Bacon": null,
+            "Texas BBQ": null,
+            "Mighty Meaty": null,
+            "Tandoori Hot": null,
+            "New Yorker": null,
+            "Pepporoni Passion": null,
+            "Vegi Supreme": null,
+            "Meateor": 2,
+            "The Sizzler": null
+        },
+        "sides": {
+            "Chicken wings": 5,
+            "Chicken strippers": 3,
+            "Dough balls": 2,
+            "Garlic bread": 4,
+            "Potato wedges": 1
+        },
+        "non-alcoholic drinks": {
+            "Coke": null,
+            "Coke Zero": 1,
+            "Diet Coke": 2,
+            "Flavoured sparkling water": null
+        },
+        "alcoholic drinks": {
+            "Cider": 2,
+            "Beer": null,
+            "Lager": null,
+            "Mixers": 1
+        },
+        "preferred brands/flavours": ["Gin & Tonic", "Pimm's", "Whiskey & Coke"],
+        "cookies": {
+            "Ben's": 1,
+            "Marks & Spencer": 2,
+            "Sainsbury's": 3,
+            "Tesco": 4
+        },
+        "non-cookie food": {
+            "Biscuits": null,
+            "Cake": null,
+            "Jaffa Cakes": 3,
+            "Mini brownies": 2,
+            "Mini doughnuts": 6,
+            "Mini flapjacket pieces": 1,
+            "Muffins": 4,
+            "Normal doughnuts": 5
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 2,
+            "Pizza Hut": null,
+            "Papa John's": null,
+            "Ahmed's Bar-B-Q": 1,
+            "Original Hassan's": null,
+            "Ali's Kebab Van": null
+        }
+    },
+    {
+        "name": "William Seymour",
+        "subject": "Cybersecurity",
+        "college": "Kellogg",
+        "year": 1,
+        "used fancy pen": true,
+        "vegetarian": true,
+        "committee member status": {
+            "current": true,
+            "former": false,
+            "no": false
+        },
+        "pizza": {
+            "Margherita": "4",
+            "American Hot": "NaN",
+            "Chicken Feast": "NaN",
+            "Hot & Spicy": "NaN",
+            "Four Vegi": "3",
+            "Chicken & Rasher Bacon": "NaN",
+            "Texas BBQ": "NaN",
+            "Mighty Meaty": "NaN",
+            "Tandoori Hot": "NaN",
+            "New Yorker": "NaN",
+            "Pepporoni Passion": "NaN",
+            "Vegi Supreme": "2",
+            "Meateor": "NaN",
+            "The Sizzler": "NaN",
+            "Roma": "1"
+        },
+        "sides": {
+            "Chicken wings": "NaN",
+            "Chicken strippers": "NaN",
+            "Dough balls": "2",
+            "Garlic bread": "3",
+            "Potato wedges": "1"
+        },
+        "non-alcoholic drinks": {
+            "Coke": "n",
+            "Coke Zero": "3",
+            "Diet Coke": "2",
+            "Flavoured sparkling water": "1"
+        },
+        "alcoholic drinks": {
+            "Cider": "n + 1",
+            "Beer": "1",
+            "Lager": "n",
+            "Mixers": "n + 2"
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": 3,
+            "Marks & Spencer": 1,
+            "Sainsbury's": 2,
+            "Tesco": 2
+        },
+        "non-cookie food": {
+            "Biscuits": 2,
+            "Cake": 3,
+            "Jaffa Cakes": 4,
+            "Mini brownies": 6,
+            "Mini doughnuts": 8,
+            "Mini flapjacket pieces": 1,
+            "Muffins": 7,
+            "Normal doughnuts": 5
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": "3",
+            "Pizza Hut": "2",
+            "Papa John's": "1",
+            "Ahmed's Bar-B-Q": "n",
+            "Original Hassan's": "k",
+            "Ali's Kebab Van": "i"
+        }
+    },
+    {
+        "name": "Joe Gardiner",
+        "subject": "Maths + CompSci",
+        "college": "Oriel",
+        "year": 1,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": false,
+            "no": true
+        },
+        "pizza": {
+            "Margherita": "good",
+            "American Hot": null,
+            "Chicken Feast": null,
+            "Hot & Spicy": null,
+            "Four Vegi": null,
+            "Chicken & Rasher Bacon": "2",
+            "Texas BBQ": "6",
+            "Mighty Meaty": "4 (?)",
+            "Tandoori Hot": null,
+            "New Yorker": null,
+            "Pepporoni Passion": "5",
+            "Vegi Supreme": null,
+            "Meateor": "1",
+            "The Sizzler": null,
+            "Hawaiian": "3"
+        },
+        "sides": {
+            "Chicken wings": 3,
+            "Chicken strippers": 4,
+            "Dough balls": 1,
+            "Garlic bread": 2,
+            "Potato wedges": 5
+        },
+        "non-alcoholic drinks": {
+            "Coke": 1,
+            "Coke Zero": 6,
+            "Diet Coke": 4,
+            "Flavoured sparkling water": 5,
+            "Dandelion and Burdock": 0,
+            "Fanta": 2,
+            "Lemonade": 3
+        },
+        "alcoholic drinks": {
+            "Cider": "2",
+            "Beer": "3",
+            "Lager": "3 (tied)",
+            "Mixers": "5",
+            "Bailey's": "1"
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": "3",
+            "Marks & Spencer": "2",
+            "Sainsbury's": "n",
+            "Tesco": "1"
+        },
+        "non-cookie food": {
+            "Biscuits": 3,
+            "Cake": 2,
+            "Jaffa Cakes": 1,
+            "Mini brownies": 5,
+            "Mini doughnuts": 4,
+            "Mini flapjacket pieces": 8,
+            "Muffins": 6,
+            "Normal doughnuts": 7,
+            "Doritos": 0
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": 3,
+            "Papa John's": 2,
+            "Ahmed's Bar-B-Q": "??",
+            "Original Hassan's": "??",
+            "Ali's Kebab Van": "??",
+            "I don't kn": "ow any more"
+        }
+    },
+    {
+        "name": "Christopher Mullender",
+        "subject": "Physics",
+        "college": "Brasenose",
+        "year": 4,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": true,
+            "no": false
+        },
+        "pizza": {
+            "Margherita": 12,
+            "American Hot": 10,
+            "Chicken Feast": 11,
+            "Hot & Spicy": 13,
+            "Four Vegi": 14,
+            "Chicken & Rasher Bacon": 5,
+            "Texas BBQ": 2,
+            "Mighty Meaty": 4,
+            "Tandoori Hot": 9,
+            "New Yorker": 8,
+            "Pepporoni Passion": 3,
+            "Vegi Supreme": 7,
+            "Meateor": 1,
+            "The Sizzler": 6
+        },
+        "sides": {
+            "Chicken wings": 1,
+            "Chicken strippers": 2,
+            "Dough balls": 4,
+            "Garlic bread": 5,
+            "Potato wedges": 3
+        },
+        "non-alcoholic drinks": {
+            "Coke": null,
+            "Coke Zero": null,
+            "Diet Coke": null,
+            "Flavoured sparkling water": null
+        },
+        "alcoholic drinks": {
+            "Cider": null,
+            "Beer": null,
+            "Lager": null
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": 2,
+            "Marks & Spencer": 3,
+            "Sainsbury's": 5,
+            "Tesco": 1
+        },
+        "non-cookie food": {
+            "Biscuits": 4,
+            "Cake": 2,
+            "Jaffa Cakes": 1,
+            "Mini brownies": 5,
+            "Mini doughnuts": 8,
+            "Mini flapjacket pieces": 6,
+            "Muffins": 7,
+            "Normal doughnuts": 3
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": 3,
+            "Papa John's": 2,
+            "Ahmed's Bar-B-Q": "??",
+            "Original Hassan's": "??",
+            "Ali's Kebab Van": "??"
+        }
+    },
+    {
+        "name": "KRYSTOF KOLAR",
+        "subject": "PHYSICS",
+        "college": "St Hugh's",
+        "year": 1,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": false,
+            "no": true
+        },
+        "pizza": {
+            "Margherita": null,
+            "American Hot": null,
+            "Chicken Feast": 5,
+            "Hot & Spicy": null,
+            "Four Vegi": null,
+            "Chicken & Rasher Bacon": 2,
+            "Texas BBQ": 1,
+            "Mighty Meaty": null,
+            "Tandoori Hot": 3,
+            "New Yorker": null,
+            "Pepporoni Passion": null,
+            "Vegi Supreme": null,
+            "Meateor": 4,
+            "The Sizzler": null
+        },
+        "sides": {
+            "Chicken wings": 1,
+            "Chicken strippers": 2,
+            "Dough balls": null,
+            "Garlic bread": null,
+            "Potato wedges": null
+        },
+        "non-alcoholic drinks": {
+            "Coke": 1,
+            "Coke Zero": 2,
+            "Diet Coke": null,
+            "Flavoured sparkling water": null
+        },
+        "alcoholic drinks": {
+            "Cider": 1,
+            "Beer": null,
+            "Lager": null,
+            "Mixers": null
+        },
+        "preferred brands/flavours": ["Pilsner"],
+        "cookies": {
+            "Ben's": null,
+            "Marks & Spencer": null,
+            "Sainsbury's": null,
+            "Tesco": 1
+        },
+        "non-cookie food": {
+            "Biscuits": null,
+            "Cake": null,
+            "Jaffa Cakes": null,
+            "Mini brownies": null,
+            "Mini doughnuts": null,
+            "Mini flapjacket pieces": null,
+            "Muffins": null,
+            "Normal doughnuts": 1
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": null,
+            "Papa John's": null,
+            "Ahmed's Bar-B-Q": null,
+            "Original Hassan's": null,
+            "Ali's Kebab Van": null
+        }
+    },
+    {
+        "name": "011101111001011110101011101011111010101010100100",
+        "subject": "0110011101110111",
+        "college": null,
+        "year": 1,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": false,
+            "no": true
+        },
+        "pizza": {
+            "Margherita": "00001110",
+            "American Hot": "00000010",
+            "Chicken Feast": "00001100",
+            "Hot & Spicy": "00000001",
+            "Four Vegi": "00001011",
+            "Chicken & Rasher Bacon": "00001101",
+            "Texas BBQ": "00001111",
+            "Mighty Meaty": "00000011",
+            "Tandoori Hot": "00000000",
+            "New Yorker": "00001000",
+            "Pepporoni Passion": "00001001",
+            "Vegi Supreme": "00001010",
+            "Meateor": "00000111",
+            "The Sizzler": "00000100",
+            "Roma": "00000101",
+            "Ardente": "00000110"
+        },
+        "sides": {
+            "Chicken wings": "00000011",
+            "Chicken strippers": "00000010",
+            "Dough balls": "00000000",
+            "Garlic bread": "00000001",
+            "Potato wedges": "00000100"
+        },
+        "non-alcoholic drinks": {
+            "Coke": "00000001",
+            "Coke Zero": "00000000",
+            "Diet Coke": "00000011",
+            "Flavoured sparkling water": "00000010"
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": "?",
+            "Marks & Spencer": "00000000",
+            "Sainsbury's": "00000010",
+            "Tesco": "00000001"
+        }
+    },
+    {
+        "name": "Chris (the Third)",
+        "subject": "Music",
+        "college": "Oriel",
+        "year": 1,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": false,
+            "no": true
+        },
+        "pizza": {
+            "Margherita": null,
+            "American Hot": null,
+            "Chicken Feast": null,
+            "Hot & Spicy": null,
+            "Four Vegi": 1
+            "Chicken & Rasher Bacon": null,
+            "Texas BBQ": null,
+            "Mighty Meaty": null,
+            "Tandoori Hot": null,
+            "New Yorker": null,
+            "Pepporoni Passion": null,
+            "Vegi Supreme": 1,
+            "Meateor": null,
+            "The Sizzler": null
+        },
+        "sides": {
+            "Chicken wings": null,
+            "Chicken strippers": null,
+            "Dough balls": 1,
+            "Garlic bread": 1,
+            "Potato wedges": 1
+        },
+        "non-alcoholic drinks": {
+            "Coke": null,
+            "Coke Zero": null,
+            "Diet Coke": null,
+            "Flavoured sparkling water": null,
+            "Fanta": null,
+            "Lemonade": null
+        },
+        "alcoholic drinks": {
+            "Cider": null,
+            "Beer": null,
+            "Lager": null,
+            "Mixers": null
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": "Hell yeah",
+            "Marks & Spencer": null,
+            "Sainsbury's": null,
+            "Tesco": null
+        },
+        "non-cookie food": {
+            "Biscuits": null,
+            "Cake": null,
+            "Jaffa Cakes": null,
+            "Mini brownies": null,
+            "Mini doughnuts": null,
+            "Mini flapjacket pieces": null,
+            "Muffins": null,
+            "Normal doughnuts": null
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": null,
+            "Pizza Hut": null,
+            "Papa John's": null,
+            "Ahmed's Bar-B-Q": null,
+            "Original Hassan's": null,
+            "Ali's Kebab Van": null
+        }
+    },
+    {
+        "name": "Charlie Singleton",
+        "subject": "N/A",
+        "college": "N/A",
+        "year": 1,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": false,
+            "no": true
+        },
+        "pizza": {
+            "Margherita": 8,
+            "American Hot": 9,
+            "Chicken Feast": 6,
+            "Hot & Spicy": 14,
+            "Four Vegi": 7,
+            "Chicken & Rasher Bacon": 5,
+            "Texas BBQ": 10,
+            "Mighty Meaty": 1,
+            "Tandoori Hot": 11,
+            "New Yorker": 3,
+            "Pepporoni Passion": 12,
+            "Vegi Supreme": 4,
+            "Meateor": 2,
+            "The Sizzler": 13
+        },
+        "sides": {
+            "Chicken wings": 2,
+            "Chicken strippers": 1,
+            "Dough balls": 4,
+            "Garlic bread": 3,
+            "Potato wedges": 5
+        },
+        "non-alcoholic drinks": {
+            "Coke": 2,
+            "Coke Zero": 4,
+            "Diet Coke": 3,
+            "Flavoured sparkling water": 1
+        },
+        "alcoholic drinks": {
+            "Cider": 3,
+            "Beer": 1,
+            "Lager": 2,
+            "Mixers": 4
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": 1,
+            "Marks & Spencer": 2,
+            "Sainsbury's": 3,
+            "Tesco": 4
+        },
+        "non-cookie food": {
+            "Biscuits": 6,
+            "Cake": 3,
+            "Jaffa Cakes": 2,
+            "Mini brownies": 1,
+            "Mini doughnuts": 8,
+            "Mini flapjacket pieces": 7,
+            "Muffins": 4,
+            "Normal doughnuts": 5
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": 6,
+            "Papa John's": 2,
+            "Ahmed's Bar-B-Q": 3,
+            "Original Hassan's": 4,
+            "Ali's Kebab Van": 5
+        }
+    },
+    {
+        "name": "Joe Farebrother",
+        "subject": "Mathematics & Computer Science",
+        "college": "Oriel",
+        "year": 1,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": false,
+            "no": true
+        },
+        "pizza": {
+            "Margherita": 8,
+            "American Hot": null,
+            "Chicken Feast": 4,
+            "Hot & Spicy": null,
+            "Four Vegi": null,
+            "Chicken & Rasher Bacon": 5,
+            "Texas BBQ": 3,
+            "Mighty Meaty": 6,
+            "Tandoori Hot": 7,
+            "New Yorker": null,
+            "Pepporoni Passion": 2,
+            "Vegi Supreme": null,
+            "Meateor": 1,
+            "The Sizzler": null
+        },
+        "sides": {
+            "Chicken wings": 1,
+            "Chicken strippers": 4,
+            "Dough balls": 5,
+            "Garlic bread": 2,
+            "Potato wedges": 3
+        },
+        "non-alcoholic drinks": {
+            "Coke": 1,
+            "Coke Zero": null,
+            "Diet Coke": null,
+            "Flavoured sparkling water": null,
+            "Pepsi": 2,
+            "Fanta": 3
+        },
+        "alcoholic drinks": {
+            "Cider": null,
+            "Beer": null,
+            "Lager": null,
+            "Mixers": null
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": 3,
+            "Marks & Spencer": 4,
+            "Sainsbury's": 2,
+            "Tesco": 1
+        },
+        "non-cookie food": {
+            "Biscuits": 3,
+            "Cake": 4,
+            "Jaffa Cakes": null,
+            "Mini brownies": 1,
+            "Mini doughnuts": null,
+            "Mini flapjacket pieces": 5,
+            "Muffins": 2,
+            "Normal doughnuts": null
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": 3,
+            "Papa John's": 2,
+            "Ahmed's Bar-B-Q": null,
+            "Original Hassan's": null,
+            "Ali's Kebab Van": null
+        }
+    },
+    {
+        "name": "Toby Cathcart Burn",
+        "subject": "Mathematics & Computer Science",
+        "college": "Merton",
+        "year": 2,
+        "used fancy pen": false,
+        "vegetarian": true,
+        "committee member status": {
+            "current": false,
+            "former": false,
+            "no": true
+        },
+        "pizza": {
+            "Margherita": 3,
+            "American Hot": null,
+            "Chicken Feast": null,
+            "Hot & Spicy": null,
+            "Four Vegi": null,
+            "Chicken & Rasher Bacon": 1,
+            "Texas BBQ": null,
+            "Mighty Meaty": null,
+            "Tandoori Hot": null,
+            "New Yorker": null,
+            "Pepporoni Passion": null,
+            "Vegi Supreme": 2,
+            "Meateor": null,
+            "The Sizzler": null
+        },
+        "sides": {
+            "Chicken wings": null,
+            "Chicken strippers": null,
+            "Dough balls": 1,
+            "Garlic bread": 2,
+            "Potato wedges": 3
+        },
+        "non-alcoholic drinks": {
+            "Coke": 3,
+            "Coke Zero": 2,
+            "Diet Coke": 1,
+            "Flavoured sparkling water": null,
+            "Pepsi": null,
+            "Fanta": null
+        },
+        "alcoholic drinks": {
+            "Cider": null,
+            "Beer": null,
+            "Lager": null,
+            "Mixers": null
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": null,
+            "Marks & Spencer": null,
+            "Sainsbury's": null,
+            "Tesco": null
+        },
+        "non-cookie food": {
+            "Biscuits": 1,
+            "Cake": null,
+            "Jaffa Cakes": null,
+            "Mini brownies": 5,
+            "Mini doughnuts": 2,
+            "Mini flapjacket pieces": 3,
+            "Muffins": 6,
+            "Normal doughnuts": 4
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 1,
+            "Pizza Hut": null,
+            "Papa John's": null,
+            "Ahmed's Bar-B-Q": null,
+            "Original Hassan's": null,
+            "Ali's Kebab Van": null
+        }
+    },
+    {
+        "name": "ALASDAIR KERGON",
+        "subject": "PHYSICS",
+        "college": "EXETER",
+        "year": 27,
+        "used fancy pen": false,
+        "vegetarian": false,
+        "committee member status": {
+            "current": false,
+            "former": true,
+            "no": false
+        },
+        "pizza": {
+            "Margherita": 8,
+            "American Hot": 9,
+            "Chicken Feast": 2,
+            "Hot & Spicy": 10,
+            "Four Vegi": 7,
+            "Chicken & Rasher Bacon": 3,
+            "Texas BBQ": 11,
+            "Mighty Meaty": 4,
+            "Tandoori Hot": 12,
+            "New Yorker": 13,
+            "Pepporoni Passion": 6,
+            "Vegi Supreme": 5,
+            "Meateor": 1,
+            "The Sizzler": 14,
+            "Other": 15
+        },
+        "sides": {
+            "Chicken wings": 5,
+            "Chicken strippers": 4,
+            "Dough balls": 3,
+            "Garlic bread": 2,
+            "Potato wedges": 1
+        },
+        "non-alcoholic drinks": {
+            "Coke": 5,
+            "Coke Zero": 4,
+            "Diet Coke": 3,
+            "Flavoured sparkling water": 2
+            "Other": 1
+        },
+        "alcoholic drinks": {
+            "Cider": 0,
+            "Beer": 1,
+            "Lager": 2,
+            "Mixers": 3
+        },
+        "preferred brands/flavours": [],
+        "cookies": {
+            "Ben's": 2,
+            "Marks & Spencer": 1,
+            "Sainsbury's": 4,
+            "Tesco": 3
+        },
+        "non-cookie food": {
+            "Biscuits": 3,
+            "Cake": 2,
+            "Jaffa Cakes": 1,
+            "Mini brownies": 5,
+            "Mini doughnuts": 8,
+            "Mini flapjacket pieces": 4,
+            "Muffins": 6,
+            "Normal doughnuts": 7
+        },
+        "pizza/unhealthy food supplier": {
+            "Domino's": 3,
+            "Pizza Hut": 2,
+            "Papa John's": 4,
+            "Ahmed's Bar-B-Q": 5,
+            "Original Hassan's": 6,
+            "Ali's Kebab Van": 7,
+            "Other": 1
+        }
+    }
+]
