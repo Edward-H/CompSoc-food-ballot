@@ -1,6 +1,6 @@
 [
     {
-        "name": "Matthew Burke",
+        "name": "Matthew",
         "subject": "Physics",
         "college": "Brasenose",
         "year": 4,
@@ -75,7 +75,7 @@
         }
     },
     {
-        "name": "Chris Kew",
+        "name": "Chris K.",
         "subject": "CS",
         "college": "New",
         "year": 4,
@@ -150,7 +150,7 @@
         }
     },
     {
-        "name": "Thomas Denney",
+        "name": "Thomas",
         "subject": "Computer Science",
         "college": "St Catherine's",
         "year": 2,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "name": "Edward Hart",
+        "name": "Edward",
         "subject": "Maths",
         "college": "Corpus Christi",
         "year": 1,
@@ -298,7 +298,7 @@
         }
     },
     {
-        "name": "William Seymour",
+        "name": "Will",
         "subject": "Cybersecurity",
         "college": "Kellogg",
         "year": 1,
@@ -372,7 +372,7 @@
         }
     },
     {
-        "name": "Joe Gardiner",
+        "name": "Joe G.",
         "subject": "Maths + CompSci",
         "college": "Oriel",
         "year": 1,
@@ -452,7 +452,7 @@
         }
     },
     {
-        "name": "Christopher Mullender",
+        "name": "Chris M.",
         "subject": "Physics",
         "college": "Brasenose",
         "year": 4,
@@ -524,7 +524,7 @@
         }
     },
     {
-        "name": "KRYSTOF KOLAR",
+        "name": "KRYSTOF",
         "subject": "PHYSICS",
         "college": "St Hugh's",
         "year": 1,
@@ -723,7 +723,7 @@
         }
     },
     {
-        "name": "Charlie Singleton",
+        "name": "Charlie",
         "subject": "N/A",
         "college": "N/A",
         "year": 1,
@@ -796,7 +796,7 @@
         }
     },
     {
-        "name": "Joe Farebrother",
+        "name": "Joe F.",
         "subject": "Mathematics & Computer Science",
         "college": "Oriel",
         "year": 1,

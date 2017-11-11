@@ -1,6 +1,6 @@
 [
     {
-        "name": "Matthew Burke",
+        "name": "Matt",
         "subject": "Physics",
         "college": "Brasenose",
         "year": 4,
@@ -75,7 +75,7 @@
         }
     },
     {
-        "name": "Chris Kew",
+        "name": "Chris K.",
         "subject": "Computer Science",
         "college": "New",
         "year": 4,
@@ -150,7 +150,7 @@
         }
     },
     {
-        "name": "Thomas Denney",
+        "name": "Thomas",
         "subject": "Computer Science",
         "college": "St Catherine's",
         "year": 2,
@@ -225,7 +225,7 @@
         }
     },
     {
-        "name": "Edward Hart",
+        "name": "Edward",
         "subject": "Mathematics",
         "college": "Corpus Christi",
         "year": 1,
@@ -298,7 +298,7 @@
         }
     },
     {
-        "name": "William Seymour",
+        "name": "Will",
         "subject": "Computer Science",
         "college": "Kellogg",
         "year": 1,
@@ -372,7 +372,7 @@
         }
     },
     {
-        "name": "Joe Gardiner",
+        "name": "Joe G.",
         "subject": "Mathematics & Computer Science",
         "college": "Oriel",
         "year": 1,
@@ -450,7 +450,7 @@
         }
     },
     {
-        "name": "Christopher Mullender",
+        "name": "Chris M.",
         "subject": "Physics",
         "college": "Brasenose",
         "year": 4,
@@ -523,7 +523,7 @@
         }
     },
     {
-        "name": "Krystof Kolar",
+        "name": "Krystof",
         "subject": "Physics",
         "college": "St Hugh's",
         "year": 1,
@@ -596,7 +596,7 @@
         }
     },
     {
-        "name": "Sauyon Jason Lee",
+        "name": "Sauyon",
         "subject": "Computer Science",
         "college": "St Catherine's",
         "year": 1,
@@ -744,7 +744,7 @@
         }
     },
     {
-        "name": "Charlie Singleton",
+        "name": "Charlie",
         "subject": "N/A",
         "college": "N/A",
         "year": 1,
@@ -817,7 +817,7 @@
         }
     },
     {
-        "name": "Joe Farebrother",
+        "name": "Joe F.",
         "subject": "Mathematics & Computer Science",
         "college": "Oriel",
         "year": 1,
@@ -892,7 +892,7 @@
         }
     },
     {
-        "name": "Toby Cathcart Burn",
+        "name": "Toby",
         "subject": "Mathematics & Computer Science",
         "college": "Merton",
         "year": 2,
@@ -967,7 +967,7 @@
         }
     },
     {
-        "name": "Alasdair Kergon",
+        "name": "Alasdair",
         "subject": "Physics",
         "college": "Exeter",
         "year": 27,
